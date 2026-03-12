@@ -8,6 +8,12 @@
 
 ---
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Thiago771414/imagensProjetos/main/slices/mobile/googlewebhook.png" width="900">
+</p>
+
+---
+
 # Webhook Notification Architecture
 
 This repository demonstrates how to send asynchronous notifications to **Google Chat using incoming webhooks**.
